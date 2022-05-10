@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: teal;
+
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+input {
+  background: black;
+  color: white;
+  border-top: none;
+  width: 200px;
+  padding: 5px;
+}
+
+button {
+  background: content-box;
+  color: white;
+  border: none;
+  border: 6px solid orange;
+  padding: 10px;
+  border-radius: 10px;
+}
